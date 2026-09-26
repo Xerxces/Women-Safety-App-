@@ -1,0 +1,29 @@
+    [
+  {
+    "id": "ZONE_001",
+    "area_name": "Central Railway Station Alleyway",
+    "latitude": 21.2514,
+    "longitude": 81.6296,
+    "crime_type": "Harassment / Theft",
+    "severity": "HIGH",
+    "radius_meters": 300
+  },
+  {
+    "id": "ZONE_002",
+    "area_name": "Unlit Industrial Park",
+    "latitude": 21.2600,
+    "longitude": 81.6400,
+    "crime_type": "Physical Assault",
+    "severity": "CRITICAL",
+    "radius_meters": 500
+  },
+  {
+    "id": "ZONE_003",
+    "area_name": "Old Market Narrow Passage",
+    "latitude": 21.2400,
+    "longitude": 81.6200,
+    "crime_type": "Chain Snatching",
+    "severity": "MEDIUM",
+    "radius_meters": 200
+  }
+]
